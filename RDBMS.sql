@@ -40,3 +40,16 @@ Database
 Tabel (table)
 Kolom (column) atau Field
 Dari sini aku belajar informasi menarik yaitu setiap database bisa berisi beberapa tabel, dan setiap tabel bisa terdiri dari beberapa kolom. Di setiap database, tabel dan kolom memiliki nama sendiri sebagai identitas mereka. Tabel dan kolom inilah yang akan diisi data yang kemudian membentuk row (baris data). 
+
+Kesimpulan
+Wah ternyata seru sekali belajar SQL! 
+
+Aku mulai membuka catataanku, mengambil pena, dan menuliskan apa yang aku pelajari:
+
+Sistem relasional database atau relational database management system (RDBMS) adalah sistem database paling populer di dunia saat ini dan menggunakan bahasa SQL untuk pengolahannya.
+Beberapa produk RDBMS yang terkenal antara lain adalah Microsoft SQL Server, Oracle, MySQL, PostgreSQL, IBM DB2, dan masih banyak lainnya.
+Struktur penyimpanan data di RDBMS menggunakan hirarki:
+Database
+Tabel (Table)
+Kolom (Column)
+Data akan diisi ke dalam table dalam bentuk Baris (Row) data
