@@ -26,6 +26,8 @@ no_urut menjadi nomor.
 nama_produk menjadi nama.
 Jika berjalan lancar, maka akan muncul hasil berikut.
 
+tanpa as
+SELECT no_urut nomor, nama_produk nama FROM ms_produk
 
 
  
