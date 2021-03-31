@@ -21,7 +21,7 @@ Catatan: alias tidak bisa digunakan untuk wildcard (*)
 
 Tugas:
 Cobalah ubah perintah SELECT tersebut di atas untuk merubah nama kolom dengan details berikut:
-
+SELECT no_urut AS nomor, nama_produk AS nama FROM ms_produk	
 no_urut menjadi nomor.
 nama_produk menjadi nama.
 Jika berjalan lancar, maka akan muncul hasil berikut.
