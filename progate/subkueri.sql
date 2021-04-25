@@ -21,3 +21,12 @@ where goals >
   FROM players
 )
 ;
+
+SELECT *
+FROM countries
+WHERE rank < (
+  select rank 
+  from countries
+  where name="Jepang"
+)
+;
